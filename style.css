@@ -1,5 +1,9 @@
-h1{
+p{
 	font-size: 20px;
 	color: lightblue;
 	text-transform: uppercase;
+	cursor: pointer;
+}
+p:nth-child(3){
+	color: blue;
 }
